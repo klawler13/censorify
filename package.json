@@ -1,0 +1,19 @@
+{
+    "author": "KPL",
+    "name": "censorify",
+    "version": "0.1.1",
+    "description": "Censor words out of a text string",
+    "main": "censortext",
+    "respository": {
+        "type": "git",
+        "url": "https://github.com/klawler13/censorify.git"
+    },
+    "keywords": [
+        "censor",
+        "words"
+    ],
+    "dependencies": {},
+    "engines": {
+        "node": "*"
+    }
+}
